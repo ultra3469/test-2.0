@@ -1,6 +1,4 @@
-import random
-number = random.randint(100,500)
-print("guess a number from 100-500")
+
 
 while True:
     
